@@ -1,2 +1,5 @@
 # discord
-ur MUNZ count iz: [munz]
+# include <iostream>
+  using namespace std;
+  int main()
+  
