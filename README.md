@@ -1,2 +1,3 @@
 # discord
-hey guys
+int munz;
+cout<<munz<<endl;
