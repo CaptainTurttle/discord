@@ -1,3 +1,2 @@
 # discord
-int munz;
-cout<<munz<<endl;
+ur MUNZ count iz: [munz]
